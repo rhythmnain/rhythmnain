@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **I'm an avid reader!**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rhythmnain)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhythmnain&theme=aura)](https://git.io/streak-stats)
 
 
