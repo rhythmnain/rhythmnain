@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm an avid reader!**
 
-Check out my portfolio [Rhythm-Portfolio/]([url](https://portfolio-rhythm.vercel.app/))
+Check out my portfolio [Rhythm-Portfolio](https://portfolio-rhythm.vercel.app/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhythmnain&theme=aura)](https://git.io/streak-stats)
 
