@@ -13,8 +13,6 @@
 
 Check out my portfolio [Rhythm-Portfolio](https://portfolio-rhythm.vercel.app/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rhythmnain&theme=aura)](https://git.io/streak-stats)
-
 
 
 <h3 align="center">Languages and Tools:</h3>
