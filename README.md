@@ -79,8 +79,7 @@ Check out my portfolio [Rhythm-Portfolio](https://portfolio-rhythm.vercel.app/)
 
 
    
-   
-##   GitHub Stats📊
+
 
 
 ## GitHub Stats 📊
